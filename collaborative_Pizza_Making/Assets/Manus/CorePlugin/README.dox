@@ -1,0 +1,13 @@
+The Manus Plugin for Unity (v1.9.0)
+=======================
+
+Content Layout:
+- Dox: Contains all the doxygen related documentation, which is also readily available online.
+- Gestures: Contains premade gestures using the gesture system.
+- Hermes: Contains all files related to the Hermes connection (DLL's and such).
+- Materials: Contains all the materials used by the plugin.
+- Models: Contains all the models used by the plugin.
+- Prefabs: Contains all the prefabs used by the plugin, this however does not contain any NetObject (Multiplayer) prefabs!
+- Resources: Contains all the data that needs to be loaded upon launch, this includes NetObjects (Multiplayer) that need to be spawned.
+- Scenes: Contains several sample scenes that can be used to test if the features are working as expected.
+- Scripts: Contains all the scripts that are used in the plugin.

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MoveWhenIntersecting
+  - Sausage
+  - Flour
+  - Water
+  - RollingPin
+  - Cheese
+  - DoughBall
+  - Spoon
+  - TomatoBall
+  - TomatoSauce
+  - CheeseParticle
+  - BellPepper
+  - TomatoSaucePizza
+  - Pizza
+  - DinnerPlate
+  - Indicator
+  - CuttingBoard
+  - Hand
+  - LeftHand
+  - RightHand
+  - XRrig
+  - FreezeLayer
+  - DropableArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Bowl
+  - Water
+  - UI
+  - Left Hand Physics
+  - Right Hand Physics
+  - NonPhysics Hand
+  - Table
+  - Dough
+  - TomatoColorPlane
+  - Oven
+  - ColorSpoon
+  - OvenDoor
+  - PlayerSelf
+  - FreezeLayer
+  - DropableArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

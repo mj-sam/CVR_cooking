@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbeaf61dc87556542b11be9e2561f638, type: 3}
+  m_Name: DefaultManusSettings
+  m_EditorClassIdentifier: 
+  gestures:
+  - {fileID: 11400000, guid: 9136083b806724c439c1224e2cf233e9, type: 2}
+  - {fileID: 11400000, guid: d245bff883a140d43b3543b86dd25d23, type: 2}
+  - {fileID: 11400000, guid: 21ff3add657f2d84f81cefcd39eacfd0, type: 2}
+  - {fileID: 11400000, guid: cfea96495b2db2e4cab2abf7107bf25c, type: 2}

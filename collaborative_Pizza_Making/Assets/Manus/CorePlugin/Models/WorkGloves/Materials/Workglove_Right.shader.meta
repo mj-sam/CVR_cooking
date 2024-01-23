@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 682d9412b1a3a0444a6976beffafb722
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Albedo: {fileID: 2800000, guid: a403b3124871d1748878dc6aae6d5b56, type: 3}
+  - _Normal: {fileID: 2800000, guid: cb5098e8702aa194b80624ab0b3e7c50, type: 3}
+  - _RMAO: {fileID: 2800000, guid: 3169b8ec55b6da44287fd7d2efc0ec61, type: 3}
+  - _Masks: {fileID: 2800000, guid: 2277d663fc66b6349b8d60c930d381b9, type: 3}
+  - _ColorMask4: {fileID: 2800000, guid: 50bd95ad4a8746141b7797d616eaf0a4, type: 3}
+  - _Print: {fileID: 2800000, guid: 6730d173319f992478d20997d21a7db7, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

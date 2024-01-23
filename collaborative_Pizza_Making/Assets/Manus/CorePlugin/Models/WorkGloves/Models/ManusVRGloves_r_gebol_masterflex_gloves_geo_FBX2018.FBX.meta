@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 3459479619ce32a4593f1fd22c60f8f8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: hand_r
+    100002: hand_s_r
+    100004: index_00_r
+    100006: index_00_s_r
+    100008: index_01_r
+    100010: index_01_s_r
+    100012: index_02_r
+    100014: index_02_s_r
+    100016: index_03_r
+    100018: index_03_s_r
+    100020: index_04_r
+    100022: ManusVRGloves_r_gebol_masterflex_gloves_geo 1
+    100024: //RootNode
+    100026: middle_00_r
+    100028: middle_00_s_r
+    100030: middle_01_r
+    100032: middle_01_s_r
+    100034: middle_02_r
+    100036: middle_02_s_r
+    100038: middle_03_r
+    100040: middle_03_s_r
+    100042: middle_04_r
+    100044: pinky_00_r
+    100046: pinky_00_s_r
+    100048: pinky_01_r
+    100050: pinky_01_s_r
+    100052: pinky_02_r
+    100054: pinky_02_s_r
+    100056: pinky_03_r
+    100058: pinky_03_s_r
+    100060: pinky_04_r
+    100062: ring_00_r
+    100064: ring_00_s_r
+    100066: ring_01_r
+    100068: ring_01_s_r
+    100070: ring_02_r
+    100072: ring_02_s_r
+    100074: ring_03_r
+    100076: ring_03_s_r
+    100078: ring_04_r
+    100080: thumb_00_r
+    100082: thumb_00_s_r
+    100084: thumb_01_r
+    100086: thumb_01_s_r
+    100088: thumb_02_r
+    100090: thumb_02_s_r
+    100092: thumb_03_r
+    100094: thumb_03_s_r
+    100096: thumb_04_r
+    400000: hand_r
+    400002: hand_s_r
+    400004: index_00_r
+    400006: index_00_s_r
+    400008: index_01_r
+    400010: index_01_s_r
+    400012: index_02_r
+    400014: index_02_s_r
+    400016: index_03_r
+    400018: index_03_s_r
+    400020: index_04_r
+    400022: ManusVRGloves_r_gebol_masterflex_gloves_geo 1
+    400024: //RootNode
+    400026: middle_00_r
+    400028: middle_00_s_r
+    400030: middle_01_r
+    400032: middle_01_s_r
+    400034: middle_02_r
+    400036: middle_02_s_r
+    400038: middle_03_r
+    400040: middle_03_s_r
+    400042: middle_04_r
+    400044: pinky_00_r
+    400046: pinky_00_s_r
+    400048: pinky_01_r
+    400050: pinky_01_s_r
+    400052: pinky_02_r
+    400054: pinky_02_s_r
+    400056: pinky_03_r
+    400058: pinky_03_s_r
+    400060: pinky_04_r
+    400062: ring_00_r
+    400064: ring_00_s_r
+    400066: ring_01_r
+    400068: ring_01_s_r
+    400070: ring_02_r
+    400072: ring_02_s_r
+    400074: ring_03_r
+    400076: ring_03_s_r
+    400078: ring_04_r
+    400080: thumb_00_r
+    400082: thumb_00_s_r
+    400084: thumb_01_r
+    400086: thumb_01_s_r
+    400088: thumb_02_r
+    400090: thumb_02_s_r
+    400092: thumb_03_r
+    400094: thumb_03_s_r
+    400096: thumb_04_r
+    4300000: ManusVRGloves_r_gebol_masterflex_gloves_geo
+    9500000: //RootNode
+    13700000: ManusVRGloves_r_gebol_masterflex_gloves_geo 1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Magnus_VR_Gloves_Inst
+    second: {fileID: 2100000, guid: fd619e40177a5a340bfdd6f66c8a059d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - hand_r/index_00_r/index_01_r/index_02_r/index_03_r
+    - hand_r/index_00_r/index_01_r/index_02_r/index_03_r/index_04_r
+    - hand_r
+    - hand_r/index_00_r
+    - hand_r/index_00_r/index_01_r
+    - hand_r/index_00_r/index_01_r/index_02_r
+    - hand_r/middle_00_r
+    - hand_r/middle_00_r/middle_01_r
+    - hand_r/middle_00_r/middle_01_r/middle_02_r
+    - hand_r/middle_00_r/middle_01_r/middle_02_r/middle_03_r
+    - hand_r/middle_00_r/middle_01_r/middle_02_r/middle_03_r/middle_04_r
+    - hand_r/pinky_00_r
+    - hand_r/pinky_00_r/pinky_01_r
+    - hand_r/pinky_00_r/pinky_01_r/pinky_02_r
+    - hand_r/pinky_00_r/pinky_01_r/pinky_02_r/pinky_03_r
+    - hand_r/pinky_00_r/pinky_01_r/pinky_02_r/pinky_03_r/pinky_04_r
+    - hand_r/ring_00_r
+    - hand_r/ring_00_r/ring_01_r
+    - hand_r/ring_00_r/ring_01_r/ring_02_r
+    - hand_r/ring_00_r/ring_01_r/ring_02_r/ring_03_r
+    - hand_r/ring_00_r/ring_01_r/ring_02_r/ring_03_r/ring_04_r
+    - hand_r/thumb_00_r
+    - hand_r/thumb_00_r/thumb_01_r
+    - hand_r/thumb_00_r/thumb_01_r/thumb_02_r
+    - hand_r/thumb_00_r/thumb_01_r/thumb_02_r/thumb_03_r
+    - hand_r/thumb_00_r/thumb_01_r/thumb_02_r/thumb_03_r/thumb_04_r
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: hand_r
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

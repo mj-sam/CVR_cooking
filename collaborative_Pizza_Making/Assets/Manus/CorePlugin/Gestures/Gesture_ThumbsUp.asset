@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b7bc282e80bddc49b7b5a1886d51e16, type: 3}
+  m_Name: Gesture_ThumbsUp
+  m_EditorClassIdentifier: 
+  flexValues:
+  - joints:
+    - {x: -0.01, y: 0.39924645}
+    - {x: -0.01, y: 0.23513237}
+    - {x: -0.01, y: 0.23097757}
+    - {x: -0.01, y: 1.01}
+  - joints:
+    - {x: -0.01, y: 1.01}
+    - {x: 0.66103953, y: 1.01}
+    - {x: 0.66366184, y: 1.01}
+    - {x: -0.01, y: 1.01}
+  - joints:
+    - {x: -0.01, y: 1.01}
+    - {x: 0.6560011, y: 1.01}
+    - {x: 0.6422255, y: 1.01}
+    - {x: -0.01, y: 1.01}
+  - joints:
+    - {x: -0.01, y: 1.01}
+    - {x: 0.617842, y: 1.01}
+    - {x: 0.6219968, y: 1.01}
+    - {x: -0.01, y: 1.01}
+  - joints:
+    - {x: -0.01, y: 1.01}
+    - {x: 0.6264898, y: 1.01}
+    - {x: 0.62572366, y: 1.01}
+    - {x: -0.01, y: 1.01}

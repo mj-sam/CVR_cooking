@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 3f6042cc7003c3d42b2e3fd3fd315d6a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Multiplayer: {instanceID: 0}
+  - head: {instanceID: 0}
+  - transparent: {fileID: 2100000, guid: f612582a17d058441af26c2d2956c1d4, type: 2}
+  - _camera: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  - canvasHaptic: {instanceID: 0}
+  - instructionText: {instanceID: 0}
+  - instructionTextHaptic: {instanceID: 0}
+  - rController: {instanceID: 0}
+  - lController: {instanceID: 0}
+  - rControllerPresence: {instanceID: 0}
+  - lControllerPresence: {instanceID: 0}
+  - rControllerAnimator: {instanceID: 0}
+  - lControllerAnimator: {instanceID: 0}
+  - rHaptic: {instanceID: 0}
+  - lHaptic: {instanceID: 0}
+  - rHapticPresence: {instanceID: 0}
+  - lHapticPresence: {instanceID: 0}
+  - rHapticAnimator: {instanceID: 0}
+  - lHapticAnimator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
